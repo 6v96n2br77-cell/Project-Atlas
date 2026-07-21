@@ -4,6 +4,7 @@ The aim of Atlas is to create a simplified but dynamic model of a market economy
 
 Rather than modelling a single fixed market outcome, Atlas simulates how markets develop over time. Consumer choices influence firm performance, firm performance affects future strategies, and wider economic conditions can change the behaviour of both consumers and businesses.
 
+
 Current Features
 
 The current version of Atlas includes:
